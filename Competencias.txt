@@ -1,0 +1,10 @@
+fila	150
+fila	100
+fila	60
+fila	100
+fila	60
+fila	100
+fila	60
+fila	100
+fila	60
+fila	100
